@@ -1,5 +1,4 @@
-# from 24110119d YU Fenggang
-# this fulfill Task 4 requirement
+
 import os
 import cv2
 import numpy as np
