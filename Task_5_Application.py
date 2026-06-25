@@ -1,4 +1,4 @@
-# from 24110119d YU Fenggang
+
 # this fulfill Task 5 requirement
 import tkinter as tk
 from tkinter import filedialog, Label, Frame, Button
